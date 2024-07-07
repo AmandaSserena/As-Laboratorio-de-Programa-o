@@ -1,0 +1,14 @@
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\empresa\bin\Debug\net8.0\Empresa.exe
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\empresa\bin\Debug\net8.0\Empresa.deps.json
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\empresa\bin\Debug\net8.0\Empresa.runtimeconfig.json
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\empresa\bin\Debug\net8.0\Empresa.dll
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\empresa\bin\Debug\net8.0\Empresa.pdb
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\empresa\obj\Debug\net8.0\Empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\empresa\obj\Debug\net8.0\Empresa.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\empresa\obj\Debug\net8.0\Empresa.AssemblyInfo.cs
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\empresa\obj\Debug\net8.0\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\empresa\obj\Debug\net8.0\Empresa.dll
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\empresa\obj\Debug\net8.0\refint\Empresa.dll
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\empresa\obj\Debug\net8.0\Empresa.pdb
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\empresa\obj\Debug\net8.0\Empresa.genruntimeconfig.cache
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\empresa\obj\Debug\net8.0\ref\Empresa.dll
