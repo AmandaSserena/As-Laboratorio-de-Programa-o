@@ -1,39 +1,39 @@
-public abstract class Funcionarios
+public abstract class Funcionarios //classe abstrata Funcionarios
 {
-    public string Nome;
-    public int MatriculaDoFuncionario;
+    public string Nome; //atributo Nome
+    public int MatriculaDoFuncionario; //atributo MatriculaDoFuncionario
 
-    List<string> projetos = new List<string>();
+    List<string> projetos = new List<string>(); //lista de projetos
 
-    public void AdicionarProjeto(string projeto)
+    public void AdicionarProjeto(string projeto) //método para adicionar projeto
     {
-        projetos.Add(projeto);
+        projetos.Add(projeto);  //adiciona projeto
     }
-  
-    public Funcionarios(string nome, int matricula)
+
+    public Funcionarios(string nome, int matricula) //construtor da classe Funcionarios
     {
         Nome = nome;
-        MatriculaDoFuncionario = matricula;
+        MatriculaDoFuncionario = matricula; //atribui valores aos atributos
     }
 
-    public abstract double CalcularSalario();
+    public abstract double CalcularSalario(); //método abstrato CalcularSalario
 
-    public abstract void ExibirInformacoes();
+    public abstract void ExibirInformacoes(); //método abstrato ExibirInformacoes
 
 
-    public void AdicionarProjeto(List<string> projetos)
+    public void AdicionarProjeto(List<string> projetos) //método para adicionar projetos
     {
-        foreach (string projeto in projetos)
+        foreach (string projeto in projetos) //para cada projeto na lista de projetos
         {
-            AdicionarProjeto(projeto);
+            AdicionarProjeto(projeto); //adiciona projeto
         }
     }
 
-    public void ExibirProjetos()
+    public void ExibirProjetos() //método para exibir projetos
     {
-        foreach (string projeto in projetos)
+        foreach (string projeto in projetos) //para cada projeto na lista de projetos
         {
-            Console.WriteLine(projeto);
+            Console.WriteLine("Projeto: " + projeto); //exibe o projeto
         }
     }
 }

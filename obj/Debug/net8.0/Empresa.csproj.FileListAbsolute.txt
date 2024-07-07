@@ -12,3 +12,4 @@ C:\Users\amand\OneDrive\Área de Trabalho\LabProg\empresa\obj\Debug\net8.0\refin
 C:\Users\amand\OneDrive\Área de Trabalho\LabProg\empresa\obj\Debug\net8.0\Empresa.pdb
 C:\Users\amand\OneDrive\Área de Trabalho\LabProg\empresa\obj\Debug\net8.0\Empresa.genruntimeconfig.cache
 C:\Users\amand\OneDrive\Área de Trabalho\LabProg\empresa\obj\Debug\net8.0\ref\Empresa.dll
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\Empresa\obj\Debug\net8.0\Empresa.sourcelink.json

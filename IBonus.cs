@@ -1,7 +1,7 @@
 
-    public interface IBonus
+    public interface IBonus //interface IBonus
     {
-        double CalcularBonus();
+        double CalcularBonus(); //método CalcularBonus
     }
 
 
